@@ -1,0 +1,26 @@
+.linea{
+		border: 2px solid black;
+		width: 120px;
+}
+.uno{
+	display: inline-block;
+	margin: 10px;
+	position: relative;
+	height: 211px;
+	width: 211px;
+}
+.NA{
+	position: absolute;
+	color: white;
+	margin: 6px;
+	bottom: 0;
+	right: 0;
+}
+.cuadro{
+	height: 211px;
+	width: 211px;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	background-color: rgba(010,010,010,0.40);
+}
